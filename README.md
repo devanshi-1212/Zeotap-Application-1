@@ -2,7 +2,7 @@
 ## Rule Engine with AST
 
 ## Features:
-- Created a MERN-stack based rule engine application to determine user eligibility based on attributes like age, department, income, spend etc.
+- Created a rule engine application to determine user eligibility based on attributes like age, department, income, spend etc.
 - Facilitates creation of rules, combining 2 rules using given operators and evaluating rules against user provided data.
 - Simple UI for user readability.
 - Implemented error handling for invalid rule and data strings
