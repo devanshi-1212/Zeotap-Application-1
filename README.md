@@ -14,7 +14,7 @@
 
 ## Installation:
 - Clone repository:
-  git clone https://github.com/devanshi-1212/Zeotap-Application1.git
+  git clone https://github.com/devanshi-1212/Zeotap-Application-1.git
 - Install dependencies:
   npm install
 - Setup MySQL database and modify database configuration in .env
