@@ -1,9 +1,6 @@
 # Zeotap Intern Assignment - Application 1
 ## Rule Engine with AST
 
-## Walkthrough:
-https://github.com/user-attachments/assets/22b5ae0b-2eb8-4dde-af84-de4c83a4120b
-
 ## Features:
 - Created a rule engine application to determine user eligibility based on attributes like age, department, income, spend etc.
 - Facilitates creation of rules, combining 2 rules using given operators and evaluating rules against user provided data.
