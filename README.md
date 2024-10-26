@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/13eb7703-d5aa-46f8-a764-d89bcb9ebb6f
 - Created a rule engine application to determine user eligibility based on attributes like age, department, income, spend etc.
 - Facilitates creation of rules, combining 2 rules using given operators and evaluating rules against user provided data.
 - Simple UI for user readability.
-- Implemented error handling for invalid rule and data strings
+- Implemented error handling for invalid rule and data strings.
 
 ## Technologies Used:
 - Frontend: ReactJS, CSS
